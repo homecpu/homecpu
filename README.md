@@ -6,6 +6,7 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=homecpu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## Reading:
-Computer Systems: A Programmers Perspective | Bryant & O'Hallaron
+Computer Systems: A Programmers Perspective | Bryant & O'Hallaron :ballot_box_with_check: <br>
+The Algorithm Design Manual | Skiena
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
