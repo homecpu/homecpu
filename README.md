@@ -7,6 +7,5 @@
 
 ## Reading:
 Computer Systems: A Programmers Perspective | Bryant & O'Hallaron :ballot_box_with_check: <br>
-The Algorithm Design Manual | Skiena
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
