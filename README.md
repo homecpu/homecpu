@@ -7,5 +7,6 @@
 
 ## Reading:
 Computer Systems: A Programmers Perspective | Bryant & O'Hallaron :ballot_box_with_check: <br>
+Introduction to the Theory of Computation | Sipser :microscope:
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
