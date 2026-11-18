@@ -1,5 +1,5 @@
 ## Socials:
-[![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://graphics.social/@homecpu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eveline-landes) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lynlandes@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eveline-landes) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lynlandes@gmail.com) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://graphics.social/@homecpu) 
 
 ## Tech:
 ![Nix](https://img.shields.io/badge/NIX-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl) <br> <br>
@@ -7,6 +7,6 @@
 
 ## Reading:
 Computer Systems: A Programmers Perspective | Bryant & O'Hallaron :ballot_box_with_check: <br>
-Game Engine Architecture | Gregory :microscope:
+Game Engine Architecture | Gregory :mag:
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
